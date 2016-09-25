@@ -1,0 +1,57 @@
+h1 {
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size: 20pt;
+}
+
+body {
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    background-color: lightblue;
+}
+
+a {
+	display: block;
+	padding-top: 20pt;
+	color: brown;
+	text-decoration: none;
+	font-size: 15pt;
+}
+
+a:hover {
+	color: red;
+	text-decoration: underline;
+	font-size: 18pt;
+}
+
+.breaking, .cat, .program, .tufts, .gaming{
+	background: url(sprites.png) no-repeat;
+}
+
+.breaking{
+	background-position: -608px -656px ;
+	width: 450px;
+	height: 195px;
+}
+
+.cat{
+	background-position: -606px 0;
+	width: 480px;
+	height: 640px;
+}
+
+.program{
+	background-position: 0 0;
+	width: 600px;
+	height: 700px;
+}
+
+.tufts{
+	background-position: 0 -719px ;
+	width: 600px;
+	height: 430px;
+}
+
+.gaming{
+	background-position: -640px -920px ;
+	width: 220px;
+	height: 200px;
+}
