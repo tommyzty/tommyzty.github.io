@@ -1,0 +1,40 @@
+h1 {
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size: 20pt;
+}
+
+body {
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    background-color: lightblue;
+}
+
+li {
+	padding-top: 10pt;
+	font-size: large;
+	list-style: square;
+}
+
+li.sub{
+	padding-left: 20pt;
+	list-style: circle;
+	font-size: medium;
+}
+
+a {
+	display: block;
+	padding-top: 20pt;
+	color: brown;
+	text-decoration: none;
+	font-size: 15pt;
+}
+
+a:hover {
+	color: red;
+	text-decoration: underline;
+	font-size: 18pt;
+}
+
+span {
+	display: block;
+	padding-top: 2pt;
+}
