@@ -1,2 +1,2 @@
-# tommyzty.github.io.
+# tommyzty.github.io
 My Portfolio
