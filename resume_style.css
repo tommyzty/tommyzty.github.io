@@ -30,8 +30,7 @@ a {
 
 a:hover {
 	color: red;
-	text-decoration: underline;
-	font-size: 18pt;
+	font-size: 20pt;
 }
 
 span {
