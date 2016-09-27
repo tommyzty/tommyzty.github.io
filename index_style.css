@@ -22,8 +22,7 @@ a {
 
 a:hover {
 	color: red;
-	text-decoration: underline;
-	font-size: 22pt;
+	font-size: 24pt;
 }
 
 img.pic {
